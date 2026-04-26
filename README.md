@@ -50,7 +50,6 @@ The player controls a car to avoid incoming enemy vehicles and survive as long a
 g++ Modified_car_game.cpp -o car_game
 
 ## 🔮 Future Enhancements
----
 
 -Add difficulty levels
 -Improve graphics using SFML / SDL
@@ -58,6 +57,7 @@ g++ Modified_car_game.cpp -o car_game
 -Add high score saving system
 -Add multiple enemy patterns
 -Improve UI design
+---
 
 ## 👨‍💻 Author
 ---
@@ -65,6 +65,8 @@ g++ Modified_car_game.cpp -o car_game
 - BSc in Computer Science and Engineering (CSE)  
 - Passionate about coding and problem-solving  
 - [GitHub](https://github.com/abdmahdi56) | [Portfolio](https://abdullahalmahdi.netlify.app/)
+
+
 ##⭐ Support
 ---
 If you like this project, give it a ⭐ on GitHub and feel free to fork it!
